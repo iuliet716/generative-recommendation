@@ -1,1 +1,1 @@
-# generative-recommendation-study
+# generative-recommendation
